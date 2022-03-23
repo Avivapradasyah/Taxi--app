@@ -1,0 +1,5 @@
+d:\my data all\documents\visual studio 2015\Projects\TaxiBaru\TaxiBaru\bin\Debug\TaxiBaru.exe.config
+d:\my data all\documents\visual studio 2015\Projects\TaxiBaru\TaxiBaru\bin\Debug\TaxiBaru.exe
+d:\my data all\documents\visual studio 2015\Projects\TaxiBaru\TaxiBaru\bin\Debug\TaxiBaru.pdb
+d:\my data all\documents\visual studio 2015\Projects\TaxiBaru\TaxiBaru\obj\Debug\TaxiBaru.exe
+d:\my data all\documents\visual studio 2015\Projects\TaxiBaru\TaxiBaru\obj\Debug\TaxiBaru.pdb
